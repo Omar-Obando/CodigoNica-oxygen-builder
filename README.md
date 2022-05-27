@@ -1,14 +1,9 @@
 # No Theme for Oxygen
-**Contributors:** David Browne  
+**Contributors:** David Browne
+Edited for https://www.codigonica.com
 **Tags:** oxygen  
 **License:** GPLv2 or later  
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html
-
-This theme only serves as a placeholder for sites built with [Oxygen](http://oxygenbuilder.com/).
-
-Oxygen completely disables the WordPress theme system, so it really doesn't matter which theme you have installed.
-
-However, theme update notifications will still come through for any themes that are installed while using Oxygen. It can be annoying (and confusing for clients).
 
 ## This 'No Theme' solves two problems..
 
